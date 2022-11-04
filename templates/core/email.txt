@@ -1,0 +1,15 @@
+Olá Tudo bem?
+
+Muito obrigadoa por entra em contato.
+
+Estes foram os dados que voce nos forneceu
+em sua inscrição:
+
+nome:  {{ nome }}
+email: {{ email }}
+
+Em até 48 horas úteis, a nossa equipe entrará
+
+Atenciosamente,
+--
+Equipe
